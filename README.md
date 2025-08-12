@@ -2,6 +2,10 @@
 
 This project detects whether a message is **spam** or **ham** using Natural Language Processing (NLP) and a machine learning model.
 
+## 🚀 Live Demo
+
+Check out the live app here: [Spam Detection App](https://5mnnuiafabmfyfs5ciq6ut.streamlit.app/)
+
 ## Features
 - Data preprocessing with text cleaning
 - Feature extraction using TF-IDF
